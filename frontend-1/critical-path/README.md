@@ -1,0 +1,1 @@
+# Critical rendering path: Browser basics

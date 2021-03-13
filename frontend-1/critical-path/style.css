@@ -1,0 +1,15 @@
+.content {
+  background-color: white;
+}
+
+p {
+  background-color: #bbb;
+  color: #fff;
+}
+p {
+  background: red;
+}
+p {
+  background: black !important;
+}
+
