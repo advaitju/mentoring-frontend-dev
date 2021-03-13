@@ -1,15 +1,38 @@
+/* HTML */
+body {
+  background-color: green;
+}
+body {
+  background-color: #eee;
+}
+
+/* CSS library modifications */
+
+/* Components */
 .content {
-  background-color: white;
+  background-color: #ddd;
+  line-height: 1.5;
+  border: 3px solid blue;
+  padding: 0.5rem;
 }
 
-p {
-  background-color: #bbb;
-  color: #fff;
+/* Utility classes */
+.bg-col_ddd {
+  background-color: #ddd;
 }
-p {
-  background: red;
+.line-height_1-5 {
+  line-height: 1.5;
 }
-p {
-  background: black !important;
+.border {
+  border: 3px solid blue;
+}
+.padding {
+  padding: 0.5rem;
 }
 
+/* Media queries */
+@media only screen and (max-width: 768px) {
+  body {
+    background-color: red;
+  }
+}

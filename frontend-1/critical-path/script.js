@@ -1,5 +1,4 @@
 let value = 5;
-
 let bg = '#aaa';
 
 document.querySelector('h1').addEventListener('click', () => {
