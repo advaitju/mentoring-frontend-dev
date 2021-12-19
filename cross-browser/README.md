@@ -10,3 +10,4 @@ CSS cross-browser compatibility:
 
 JS cross-browser compatibility:
 1. babel
+2. https://kangax.github.io/compat-table/es6/
