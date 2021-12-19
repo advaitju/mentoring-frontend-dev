@@ -1,1 +1,2 @@
-# Critical rendering path: Browser basics
+# critical-path
+How browsers load and process webpages.
