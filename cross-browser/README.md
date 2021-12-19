@@ -6,6 +6,7 @@ CSS cross-browser compatibility:
 2. Vendor prefixes
 3. https://caniuse.com/ - For making strategic decisions
 4. Supporting old browsers and testing with them.
+  1. polyfills and shims
   1. https://browserstack.com/
 
 JS cross-browser compatibility:
